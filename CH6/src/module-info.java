@@ -4,6 +4,5 @@
 /**
  * 
  */
-module JAVA {
-	requires java.se;
+module study {
 }
