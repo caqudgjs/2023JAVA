@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="Test.Outter.Nested"/>
     <fullyQualifiedTypeName name="InnnerInterface.OnClickListener"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>
