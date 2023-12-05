@@ -13,3 +13,4 @@ public class DongThread extends Thread{
 		}
 	}
 }
+ 

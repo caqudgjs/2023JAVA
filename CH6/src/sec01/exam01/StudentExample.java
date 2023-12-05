@@ -9,3 +9,4 @@ public class StudentExample {
 		System.out.println("s2 변수가 또 다른 Studnet객체를 참조합니다.");
 	}
 }
+ 

@@ -18,5 +18,5 @@ public class Key {
 	
 	public int hashCode() {
 		return number;
-	}
+	} 
 }

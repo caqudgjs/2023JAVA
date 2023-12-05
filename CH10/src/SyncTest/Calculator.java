@@ -20,4 +20,4 @@ public class Calculator {
 		System.out.println(Thread.currentThread().getName() +
 				" : " + this.memory);
 	}
-}
+} 
